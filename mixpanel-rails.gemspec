@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency 'rails', '~> 3.0'
-  gem.add_dependency 'mixpanel', '~> 3.0'
+  gem.add_dependency 'mixpanel-ruby', '~> 1.0'
 end
