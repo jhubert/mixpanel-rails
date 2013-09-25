@@ -1,4 +1,4 @@
-require 'mixpanel'
+require 'mixpanel-ruby'
 
 module Mixpanel
   class Engine < ::Rails::Railtie
